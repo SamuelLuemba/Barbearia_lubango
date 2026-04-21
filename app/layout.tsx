@@ -25,9 +25,16 @@ export const metadata = {
   keywords:
     "barbearia luanda, corte de cabelo angola, barbearia premium, degradê luanda",
   openGraph: {
-    title: "Barbearia Premium Luanda",
+    title: "Barbearia Premium Lubango",
     description: "Estilo, presença e confiança em cada corte.",
     type: "website",
+     images: [
+      {
+        url: "/barber-owner.jpg",
+        width: 1200,
+        height: 630,
+      },
+    ],
   },
 };
 
