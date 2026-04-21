@@ -1,0 +1,13 @@
+/**
+ * Variáveis globais de design
+ * Facilita consistência visual e escalabilidade
+ */
+
+:root {
+  --bg-primary: #0a0a0a;
+  --color-accent: #d4af37;
+  --text-primary: #ffffff;
+
+  --font-title: "Montserrat", sans-serif;
+  --font-text: "Inter", sans-serif;
+}

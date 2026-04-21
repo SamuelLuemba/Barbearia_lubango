@@ -1,36 +1,114 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💈 Barbearia Premium Landing Page
 
-## Getting Started
+Landing page moderna e de alta conversão desenvolvida para uma barbearia em Luanda, com foco em agendamentos via WhatsApp.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Visão do Projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este projeto foi criado com o objetivo de transformar visitantes em clientes reais através de uma experiência visual premium, rápida e otimizada para dispositivos móveis.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+A interface foi pensada para gerar **confiança, autoridade e conversão imediata**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎯 Objetivo
 
-To learn more about Next.js, take a look at the following resources:
+- Aumentar agendamentos via WhatsApp
+- Apresentar serviços de forma clara e premium
+- Criar presença digital profissional para barbearia local
+- Maximizar conversão com UX otimizada
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧠 Estratégia de Conversão
 
-## Deploy on Vercel
+- Hero com imagem impactante e CTA direto
+- Botão fixo de WhatsApp (acesso em 1 clique)
+- Preços claros e visíveis
+- Prova social (depoimentos reais)
+- Galeria de cortes (confiança visual)
+- Localização + horário de funcionamento
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Tech Stack
+
+- Next.js 14 (App Router)
+- TypeScript
+- Tailwind CSS
+- CSS Modules
+- Next Image Optimization
+
+---
+
+## 🎨 Design System
+
+- Fundo: `#0A0A0A`
+- Destaque: `#D4AF37` (dourado premium)
+- Texto: branco puro
+- Estilo: masculino, moderno e minimalista
+- UX: mobile-first
+
+---
+
+## 📱 Responsividade
+
+Totalmente otimizado para:
+
+- 📱 Mobile (prioridade)
+- 💻 Desktop
+- 📟 Tablets
+
+---
+
+## ⚡ Performance
+
+- Imagens otimizadas com `next/image`
+- Lazy loading de seções
+- Código modular e leve
+- Scroll suave e animações leves
+
+---
+
+## 📸 Preview
+
+> (adicione aqui screenshots do projeto)
+
+---
+
+## 📍 Funcionalidades
+
+- Hero com impacto visual
+- Navegação com scroll suave
+- Lista de serviços com preços em Kz
+- Galeria de cortes
+- Depoimentos de clientes
+- Localização com mapa
+- Botão WhatsApp flutuante
+- Animações de scroll (fade-in)
+
+---
+
+## 💬 Resultado Esperado
+
+Este tipo de landing page é capaz de:
+
+- Aumentar taxa de agendamento
+- Reduzir abandono de visitantes
+- Criar percepção de marca premium
+- Gerar clientes diretamente via WhatsApp
+
+---
+
+## 👨‍💻 Desenvolvido por
+
+Projeto desenvolvido com foco em performance, UX e conversão.
+
+---
+
+## 📌 Nota
+
+Este projeto foi construído com arquitetura escalável e pode ser facilmente adaptado para outros negócios locais (barbearias, clínicas, estúdios, etc).
+
+---

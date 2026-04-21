@@ -1,0 +1,35 @@
+.section {
+  padding: 80px 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+}
+
+.image img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 12px;
+}
+
+.content {
+  max-width: 600px;
+  text-align: center;
+}
+
+.content h2 {
+  font-family: var(--font-title);
+  margin-bottom: 20px;
+}
+
+/* Desktop */
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row;
+    justify-content: center;
+    text-align: left;
+  }
+}

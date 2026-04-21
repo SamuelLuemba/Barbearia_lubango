@@ -1,0 +1,59 @@
+/**
+ * Layout de serviços
+ * - Grid responsivo
+ * - Cards premium
+ */
+
+.section {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  font-family: var(--font-title);
+  margin-bottom: 40px;
+}
+
+.grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr;
+}
+
+.card {
+  background: #111;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #222;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  border-color: var(--color-accent);
+}
+
+.price {
+  color: var(--color-accent);
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+.card button {
+  margin-top: 15px;
+  background: var(--color-accent);
+  border: none;
+  padding: 10px;
+  width: 100%;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Desktop */
+@media (min-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
