@@ -21,9 +21,9 @@ const inter = Inter({
 export const metadata = {
   title: "Barbearia Premium Lubango | Cortes Modernos e Estilo",
   description:
-    "Barbearia premium em Luanda. Cortes modernos, degradê, barba e atendimento de alto nível. Agende já pelo WhatsApp.",
+    "Barbearia premium no Lubango. Cortes modernos, degradê, barba e atendimento de alto nível. Agende já pelo WhatsApp.",
   keywords:
-    "barbearia luanda, corte de cabelo angola, barbearia premium, degradê luanda",
+    "barbearia lubango, corte de cabelo angola, barbearia premium, degradê luanda",
   openGraph: {
     title: "Barbearia Premium Lubango",
     description: "Estilo, presença e confiança em cada corte.",
